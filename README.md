@@ -14,7 +14,7 @@ Este simulador tem como objetivo auxiliar no **entendimento do funcionamento de 
 - ❌ AND, OR, NOT, XOR
 - 🔁 Deslocamento de bits (Shift Left/Right)
 - 🔄 Comparações (igual, maior, menor)
-- 🔢 Conversões entre **binário, decimal e hexadecimal**
+- 🔢 Conversões entre **binário e decimal**
 - 🧮 Explicações passo a passo de cada operação
 
 ---
@@ -23,18 +23,8 @@ Este simulador tem como objetivo auxiliar no **entendimento do funcionamento de 
 
 - ⚛️ [React](https://reactjs.org/)
 - ⚡ [Vite](https://vitejs.dev/)
-- 💅 CSS (ou Tailwind, se você estiver usando)
-- 🧪 (Opcional) Bibliotecas de testes, se houver
 
----
 
-## 📷 Imagens do Projeto
-
-> *(Você pode colocar prints aqui futuramente, usando o link direto ou adicionando à pasta `public` do projeto)*
-
----
-
-## 🧰 Como Executar Localmente
 
 1. Clone o repositório:
 
